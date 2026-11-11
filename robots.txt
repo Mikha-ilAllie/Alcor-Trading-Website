@@ -1,0 +1,6 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://alcortrading.co.za/sitemap.xml
+
